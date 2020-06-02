@@ -1,1 +1,1 @@
-# edjustice_v0
+# EDjustice
